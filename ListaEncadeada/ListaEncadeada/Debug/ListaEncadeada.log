@@ -1,0 +1,5 @@
+﻿  LinkedList.cpp
+c:\users\funceme\documents\visual studio 2015\projects\listaencadeada\listaencadeada\linkedlist.cpp(57): warning C4715: 'LinkedList::size': not all control paths return a value
+c:\users\funceme\documents\visual studio 2015\projects\listaencadeada\listaencadeada\linkedlist.cpp(78): warning C4715: 'LinkedList::isExist': not all control paths return a value
+  ListaEncadeada.vcxproj -> c:\users\funceme\documents\visual studio 2015\Projects\ListaEncadeada\Debug\ListaEncadeada.exe
+  ListaEncadeada.vcxproj -> c:\users\funceme\documents\visual studio 2015\Projects\ListaEncadeada\Debug\ListaEncadeada.pdb (Partial PDB)
